@@ -1,2 +1,0 @@
-# UCAREFOOD-JAVIS-
-Project CS251 Data Base (JAVIS 2/2019)
